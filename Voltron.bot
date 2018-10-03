@@ -1,0 +1,52 @@
+{
+  "name": "Voltron",
+  "padlock": "sBbucC8LIRIjkj4r/6WD0Q==!0SyJQ4rGA/ZZXeL1y02unYf+xwtQt1XF/ny/5WrOAUQu+GbxNGhmj0oRz2eb9dU2",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "cdf23a4e-f9eb-4e72-a750-0cf2dbd851a6",
+      "subscriptionId": "895b6d3a-951e-49cd-8ede-3b94719556e6",
+      "resourceGroup": "HackathonTeam2",
+      "serviceName": "Voltron",
+      "type": "abs",
+      "name": "Voltron",
+      "id": "1"
+    },
+    {
+      "connectionString": "6iDGHfK5j00LKN5hdq7o8A==!5AF4CWo5OX0bbpV3Lqrklrbz4fEimqsnGvoU+VONOSCNubYIWXgZrDii6X6Ogz674CkY4ExVXrjobZHAwXko2GjPK+D6Ypc2xWp4PoPo9l3pr5BYFSYaTtVXXq18/lMGc0a2QapWINTtlOomNImGmNGfvQDG5J4/Z5678Fr1QOU+vMROaTPDPxAZWld4fFnFNplYMeVZdnjCNa6RomY/Wg==",
+      "tenantId": "cdf23a4e-f9eb-4e72-a750-0cf2dbd851a6",
+      "subscriptionId": "895b6d3a-951e-49cd-8ede-3b94719556e6",
+      "resourceGroup": "HackathonTeam2",
+      "serviceName": "voltron8be1",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "ab259e8e-369f-48d5-a4c8-ac760106dcb1",
+      "appPassword": "gznAb8BQzBbPJHfwgD1ccQ==!DnQFGmcE+9FW3rrEHW/Ze4J3OWWSVu21FB+HKNgPLQA=",
+      "endpoint": "https://voltron-8be1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "XdJuYlp0vu6yDm4zF6Qv7w==!G+lpbNq0OtSsDYUTt1qArpLzjKg4gpmz9DdFAdUPydO1+CnmmIN/oD4uNcusu0J4",
+      "applicationId": "49abec30-df09-4c32-b794-ec1598943c05",
+      "apiKeys": {},
+      "tenantId": "cdf23a4e-f9eb-4e72-a750-0cf2dbd851a6",
+      "subscriptionId": "895b6d3a-951e-49cd-8ede-3b94719556e6",
+      "resourceGroup": "HackathonTeam2",
+      "serviceName": "Voltron2r7tmi",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
